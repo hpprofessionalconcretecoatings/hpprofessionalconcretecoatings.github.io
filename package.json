@@ -1,5 +1,5 @@
 {
-    "title": "Creative",
+    "title": "Professional Concrete Coatings",
     "name": "startbootstrap-creative",
     "version": "4.1.1",
     "description": "Creative is a stylish one page HTML theme for Bootstrap.",
@@ -11,20 +11,14 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/creative",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-creative/issues",
-        "email": "feedback@startbootstrap.com"
+        "email": "hayden@noslowseason.com"
     },
     "license": "MIT",
-    "author": "Start Bootstrap",
+    "author": "No Slow Season",
     "contributors": [
-        "David Miller (http://davidmiller.io/)"
+        "Hayden Pratt (https://github.com/webdevwarrior)"
     ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-creative.git"
-    },
     "dependencies": {
         "bootstrap": "4.1.1",
         "font-awesome": "4.7.0",
